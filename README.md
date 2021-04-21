@@ -1,0 +1,2 @@
+# coin
+Potarettes crypto currency 
